@@ -1,7 +1,7 @@
 # PersonalityTest
 
 ## Questionnaire app that lets you discover who you truly are
-Currently limited to 
+Currently limited to introvert/extrovert personality traits.
 
 ## Development plan
 * Move magic values to constants/localization files
